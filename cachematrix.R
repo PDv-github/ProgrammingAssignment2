@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+# These functions are designed to calculate and store in cache the inverse of a given matrix.
+
+
 ## Write a short comment describing this function
 
 # initiates a function called makeCacheMatrix that requires as argument a matrix x.
